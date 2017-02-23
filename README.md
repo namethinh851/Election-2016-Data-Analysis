@@ -1,5 +1,5 @@
 # Election-2016-Data-Analysis (please click on the .ipynd to view the code)
-Data Analysis on 2016 Elections between Donald Trump and Hillary Clinton. The purpose of this project is to see if the amount of money donated to each candidate can affect directly their chances of winning the heart of American people, and hence, the Election.
+Data Analysis on 2016 Election between Donald Trump and Hillary Clinton. The purpose of this project is to see if the amount of money donated to each candidate can affect directly their chances of winning the heart of American people, and hence, the Election.
 
 The data shows that the amount of donations and donors for Hillary Clinton is much greater than Trump's. If the hypothesis is true, Hillary Clinton should have a big lead in winning Trump and therefore win the election easily. 
 
