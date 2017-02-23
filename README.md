@@ -6,3 +6,6 @@ The data shows that the amount of donations and donors for Hillary Clinton is mu
 However, this is the the case. If we look at the graph at Out[26], as the general election gets closer, Clinton starts to lose her favorbility among the American people. She later loses the election to Donald Trump.
 
 In conclusion, the amount of money being donated to a candidate does not affect directly the chances of winning the Election. Though there were many factors that could contribute to one becoming the President of United States, in my opinion, the main factor still comes down how appealing a candidate was emotionally, and Trump was able to do that.
+
+
+The source of these data are taken from: http://www.fec.gov/data/CandidateSummary.do?format=html&election_yr=2016
